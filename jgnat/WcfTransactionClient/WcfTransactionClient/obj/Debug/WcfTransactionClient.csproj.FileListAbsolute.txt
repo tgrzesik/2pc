@@ -1,0 +1,12 @@
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\WcfTransactionClient.exe.config
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\WcfTransactionClient.exe
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\WcfTransactionClient.pdb
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\EntityFramework.dll
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\EntityFramework.xml
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\fr\EntityFramework.resources.dll
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\obj\Debug\WcfTransactionClient.csprojResolveAssemblyReference.cache
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\obj\Debug\WcfTransactionClient.exe
+E:\SRIR Proj\WcfTransaction-master\WcfTransactionClient\WcfTransactionClient\obj\Debug\WcfTransactionClient.pdb

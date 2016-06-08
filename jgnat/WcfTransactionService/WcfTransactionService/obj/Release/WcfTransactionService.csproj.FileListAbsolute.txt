@@ -1,0 +1,12 @@
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\WcfTransactionService.dll.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\WcfTransactionService.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\WcfTransactionService.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\EntityFramework.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\EntityFramework.SqlServer.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\EntityFramework.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\EntityFramework.SqlServer.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\fr\EntityFramework.resources.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\obj\Release\WcfTransactionService.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\obj\Release\WcfTransactionService.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\WcfTransaction-master\WcfTransactionService\WcfTransactionService\obj\Release\WcfTransactionService.csprojResolveAssemblyReference.cache
